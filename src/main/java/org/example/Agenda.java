@@ -10,7 +10,7 @@ import java.util.List;
  * Representa una agenda de contactos, permitiendo agregar, eliminar y modificar contactos.
  */
 
-public class Agenda {
+public class Agenda implements IAgenda {
     private List<Persona> contacts; // Lista de Contacto
 
     /**
