@@ -32,7 +32,7 @@ class Persona {
      *
      * @return Nombre de la persona.
      */
-    public String getNamme() {
+    public String getName() {
         return this.name;
     }
 
